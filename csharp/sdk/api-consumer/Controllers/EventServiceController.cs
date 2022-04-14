@@ -1,4 +1,5 @@
 using System.Collections.Generic;
+using System.Text.Json.Serialization;
 using System.Threading.Tasks;
 using System;
 using Microsoft.AspNetCore.Mvc;
@@ -15,7 +16,7 @@ namespace api_consumer.Controllers;
     //Subscribe to a topic 
     [Topic("new_pub_sub", "events")]
     [HttpPost("/events")]
-    public async Task<ActionResult> GetEvents(Event requestData)
+    public ActionResult GetEvents(Event requestData)
     {
         Console.WriteLine("Subscriber received : " + requestData);
          return Ok("Event Received");
