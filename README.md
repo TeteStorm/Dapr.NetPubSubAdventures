@@ -21,3 +21,14 @@
 
 - C# for Visual Studio Code (powered by OmniSharp)
 - PowerShell Language Support for Visual Studio Code
+
+#### Produzindo eventos diretamente ao componente Dapr
+
+```
+curl --location --request POST 'http://localhost:[your side car dapr port]/v1.0/publish/new_pub_sub/events' \
+--header 'Content-Type: application/json' \
+--data-raw '{
+    "eventId": 2
+}'
+````
+![image](https://user-images.githubusercontent.com/8992182/163307285-28e779c6-dd49-47c1-8996-7206311a2da3.png)
