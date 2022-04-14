@@ -1,1 +1,1 @@
-dapr run --app-id checkout --components-path ../../../components/ -- dotnet run 
+dapr run --app-id order-producer --components-path ../../../components/ -- dotnet run 
