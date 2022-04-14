@@ -7,11 +7,13 @@ O Dapr possui o conceito de build blocks apis (que plugam capacidades ao nosso a
 
 Visite [dapr.io](https://docs.dapr.io/developing-applications/building-blocks/pubsub/) para mais informações sobre o Dapr e Pub-Sub.
 
-> **Produzindo mensagens:** order-producer
+ **Produzindo mensagens:** 
+- order-producer
 
 Console que realiza a produçao das mensagens
 
-> **Consumindo mensagens:** order-consumer 
+**Consumindo mensagens:**
+- order-consumer 
 
 Web aplication que se registra(subscreve no tópico definindo a rota) e recebe as mensagens através de uma rota
  
