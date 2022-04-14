@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "QZeJw/C70lfISP98js9f/PZUlcZg5INkuDSkNTcSnD/KPV2v4q7uDG0eY6lBzOEkZKDEeMrOUI2S3dQ/duHAig==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tania Storm\\Downloads\\pub_sub\\csharp\\http\\order-processor\\order-processor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tania Storm\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Tania Storm\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Tania Storm\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Tania Storm\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Tania Storm\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Tania Storm\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

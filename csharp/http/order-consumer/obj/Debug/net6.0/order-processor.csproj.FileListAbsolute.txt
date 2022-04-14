@@ -1,0 +1,81 @@
+C:\Source\DaprLive\pub_sub\csharp\http\order-processor\bin\Debug\net6.0\appsettings.Development.json
+C:\Source\DaprLive\pub_sub\csharp\http\order-processor\bin\Debug\net6.0\appsettings.json
+C:\Source\DaprLive\pub_sub\csharp\http\order-processor\bin\Debug\net6.0\order-processor.exe
+C:\Source\DaprLive\pub_sub\csharp\http\order-processor\bin\Debug\net6.0\order-processor.deps.json
+C:\Source\DaprLive\pub_sub\csharp\http\order-processor\bin\Debug\net6.0\order-processor.runtimeconfig.json
+C:\Source\DaprLive\pub_sub\csharp\http\order-processor\bin\Debug\net6.0\order-processor.dll
+C:\Source\DaprLive\pub_sub\csharp\http\order-processor\bin\Debug\net6.0\ref\order-processor.dll
+C:\Source\DaprLive\pub_sub\csharp\http\order-processor\bin\Debug\net6.0\order-processor.pdb
+C:\Source\DaprLive\pub_sub\csharp\http\order-processor\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Source\DaprLive\pub_sub\csharp\http\order-processor\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Source\DaprLive\pub_sub\csharp\http\order-processor\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Source\DaprLive\pub_sub\csharp\http\order-processor\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Source\DaprLive\pub_sub\csharp\http\order-processor\obj\Debug\net6.0\order-processor.csproj.AssemblyReference.cache
+C:\Source\DaprLive\pub_sub\csharp\http\order-processor\obj\Debug\net6.0\order-processor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Source\DaprLive\pub_sub\csharp\http\order-processor\obj\Debug\net6.0\order-processor.AssemblyInfoInputs.cache
+C:\Source\DaprLive\pub_sub\csharp\http\order-processor\obj\Debug\net6.0\order-processor.AssemblyInfo.cs
+C:\Source\DaprLive\pub_sub\csharp\http\order-processor\obj\Debug\net6.0\order-processor.csproj.CoreCompileInputs.cache
+C:\Source\DaprLive\pub_sub\csharp\http\order-processor\obj\Debug\net6.0\order-processor.MvcApplicationPartsAssemblyInfo.cs
+C:\Source\DaprLive\pub_sub\csharp\http\order-processor\obj\Debug\net6.0\order-processor.MvcApplicationPartsAssemblyInfo.cache
+C:\Source\DaprLive\pub_sub\csharp\http\order-processor\obj\Debug\net6.0\staticwebassets.build.json
+C:\Source\DaprLive\pub_sub\csharp\http\order-processor\obj\Debug\net6.0\staticwebassets.development.json
+C:\Source\DaprLive\pub_sub\csharp\http\order-processor\obj\Debug\net6.0\scopedcss\bundle\order-processor.styles.css
+C:\Source\DaprLive\pub_sub\csharp\http\order-processor\obj\Debug\net6.0\order-processor.csproj.CopyComplete
+C:\Source\DaprLive\pub_sub\csharp\http\order-processor\obj\Debug\net6.0\order-processor.dll
+C:\Source\DaprLive\pub_sub\csharp\http\order-processor\obj\Debug\net6.0\ref\order-processor.dll
+C:\Source\DaprLive\pub_sub\csharp\http\order-processor\obj\Debug\net6.0\order-processor.pdb
+C:\Source\DaprLive\pub_sub\csharp\http\order-processor\obj\Debug\net6.0\order-processor.genruntimeconfig.cache
+C:\Source\DaprLive - Copy\pub_sub\csharp\http\order-processor\bin\Debug\net6.0\appsettings.Development.json
+C:\Source\DaprLive - Copy\pub_sub\csharp\http\order-processor\bin\Debug\net6.0\appsettings.json
+C:\Source\DaprLive - Copy\pub_sub\csharp\http\order-processor\bin\Debug\net6.0\order-processor.exe
+C:\Source\DaprLive - Copy\pub_sub\csharp\http\order-processor\bin\Debug\net6.0\order-processor.deps.json
+C:\Source\DaprLive - Copy\pub_sub\csharp\http\order-processor\bin\Debug\net6.0\order-processor.runtimeconfig.json
+C:\Source\DaprLive - Copy\pub_sub\csharp\http\order-processor\bin\Debug\net6.0\order-processor.dll
+C:\Source\DaprLive - Copy\pub_sub\csharp\http\order-processor\bin\Debug\net6.0\ref\order-processor.dll
+C:\Source\DaprLive - Copy\pub_sub\csharp\http\order-processor\bin\Debug\net6.0\order-processor.pdb
+C:\Source\DaprLive - Copy\pub_sub\csharp\http\order-processor\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Source\DaprLive - Copy\pub_sub\csharp\http\order-processor\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Source\DaprLive - Copy\pub_sub\csharp\http\order-processor\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Source\DaprLive - Copy\pub_sub\csharp\http\order-processor\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Source\DaprLive - Copy\pub_sub\csharp\http\order-processor\obj\Debug\net6.0\order-processor.csproj.AssemblyReference.cache
+C:\Source\DaprLive - Copy\pub_sub\csharp\http\order-processor\obj\Debug\net6.0\order-processor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Source\DaprLive - Copy\pub_sub\csharp\http\order-processor\obj\Debug\net6.0\order-processor.AssemblyInfoInputs.cache
+C:\Source\DaprLive - Copy\pub_sub\csharp\http\order-processor\obj\Debug\net6.0\order-processor.AssemblyInfo.cs
+C:\Source\DaprLive - Copy\pub_sub\csharp\http\order-processor\obj\Debug\net6.0\order-processor.csproj.CoreCompileInputs.cache
+C:\Source\DaprLive - Copy\pub_sub\csharp\http\order-processor\obj\Debug\net6.0\order-processor.MvcApplicationPartsAssemblyInfo.cs
+C:\Source\DaprLive - Copy\pub_sub\csharp\http\order-processor\obj\Debug\net6.0\order-processor.MvcApplicationPartsAssemblyInfo.cache
+C:\Source\DaprLive - Copy\pub_sub\csharp\http\order-processor\obj\Debug\net6.0\staticwebassets.build.json
+C:\Source\DaprLive - Copy\pub_sub\csharp\http\order-processor\obj\Debug\net6.0\staticwebassets.development.json
+C:\Source\DaprLive - Copy\pub_sub\csharp\http\order-processor\obj\Debug\net6.0\scopedcss\bundle\order-processor.styles.css
+C:\Source\DaprLive - Copy\pub_sub\csharp\http\order-processor\obj\Debug\net6.0\order-processor.csproj.CopyComplete
+C:\Source\DaprLive - Copy\pub_sub\csharp\http\order-processor\obj\Debug\net6.0\order-processor.dll
+C:\Source\DaprLive - Copy\pub_sub\csharp\http\order-processor\obj\Debug\net6.0\ref\order-processor.dll
+C:\Source\DaprLive - Copy\pub_sub\csharp\http\order-processor\obj\Debug\net6.0\order-processor.pdb
+C:\Source\DaprLive - Copy\pub_sub\csharp\http\order-processor\obj\Debug\net6.0\order-processor.genruntimeconfig.cache
+C:\Users\Tania Storm\Downloads\pub_sub\csharp\http\order-processor\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Tania Storm\Downloads\pub_sub\csharp\http\order-processor\bin\Debug\net6.0\appsettings.json
+C:\Users\Tania Storm\Downloads\pub_sub\csharp\http\order-processor\bin\Debug\net6.0\order-processor.exe
+C:\Users\Tania Storm\Downloads\pub_sub\csharp\http\order-processor\bin\Debug\net6.0\order-processor.deps.json
+C:\Users\Tania Storm\Downloads\pub_sub\csharp\http\order-processor\bin\Debug\net6.0\order-processor.runtimeconfig.json
+C:\Users\Tania Storm\Downloads\pub_sub\csharp\http\order-processor\bin\Debug\net6.0\order-processor.dll
+C:\Users\Tania Storm\Downloads\pub_sub\csharp\http\order-processor\bin\Debug\net6.0\order-processor.pdb
+C:\Users\Tania Storm\Downloads\pub_sub\csharp\http\order-processor\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Tania Storm\Downloads\pub_sub\csharp\http\order-processor\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Tania Storm\Downloads\pub_sub\csharp\http\order-processor\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Tania Storm\Downloads\pub_sub\csharp\http\order-processor\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Tania Storm\Downloads\pub_sub\csharp\http\order-processor\obj\Debug\net6.0\order-processor.csproj.AssemblyReference.cache
+C:\Users\Tania Storm\Downloads\pub_sub\csharp\http\order-processor\obj\Debug\net6.0\order-processor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tania Storm\Downloads\pub_sub\csharp\http\order-processor\obj\Debug\net6.0\order-processor.AssemblyInfoInputs.cache
+C:\Users\Tania Storm\Downloads\pub_sub\csharp\http\order-processor\obj\Debug\net6.0\order-processor.AssemblyInfo.cs
+C:\Users\Tania Storm\Downloads\pub_sub\csharp\http\order-processor\obj\Debug\net6.0\order-processor.csproj.CoreCompileInputs.cache
+C:\Users\Tania Storm\Downloads\pub_sub\csharp\http\order-processor\obj\Debug\net6.0\order-processor.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Tania Storm\Downloads\pub_sub\csharp\http\order-processor\obj\Debug\net6.0\order-processor.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Tania Storm\Downloads\pub_sub\csharp\http\order-processor\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Tania Storm\Downloads\pub_sub\csharp\http\order-processor\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Tania Storm\Downloads\pub_sub\csharp\http\order-processor\obj\Debug\net6.0\scopedcss\bundle\order-processor.styles.css
+C:\Users\Tania Storm\Downloads\pub_sub\csharp\http\order-processor\obj\Debug\net6.0\order-processor.csproj.CopyComplete
+C:\Users\Tania Storm\Downloads\pub_sub\csharp\http\order-processor\obj\Debug\net6.0\order-processor.dll
+C:\Users\Tania Storm\Downloads\pub_sub\csharp\http\order-processor\obj\Debug\net6.0\refint\order-processor.dll
+C:\Users\Tania Storm\Downloads\pub_sub\csharp\http\order-processor\obj\Debug\net6.0\order-processor.pdb
+C:\Users\Tania Storm\Downloads\pub_sub\csharp\http\order-processor\obj\Debug\net6.0\order-processor.genruntimeconfig.cache
+C:\Users\Tania Storm\Downloads\pub_sub\csharp\http\order-processor\obj\Debug\net6.0\ref\order-processor.dll

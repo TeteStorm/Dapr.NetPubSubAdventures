@@ -1,0 +1,68 @@
+C:\Source\DaprLive - Copy\pub_sub\csharp\sdk\consumer\bin\Debug\net6.0\appsettings.Development.json
+C:\Source\DaprLive - Copy\pub_sub\csharp\sdk\consumer\bin\Debug\net6.0\appsettings.json
+C:\Source\DaprLive - Copy\pub_sub\csharp\sdk\consumer\bin\Debug\net6.0\consumer.exe
+C:\Source\DaprLive - Copy\pub_sub\csharp\sdk\consumer\bin\Debug\net6.0\consumer.deps.json
+C:\Source\DaprLive - Copy\pub_sub\csharp\sdk\consumer\bin\Debug\net6.0\consumer.runtimeconfig.json
+C:\Source\DaprLive - Copy\pub_sub\csharp\sdk\consumer\bin\Debug\net6.0\consumer.dll
+C:\Source\DaprLive - Copy\pub_sub\csharp\sdk\consumer\bin\Debug\net6.0\ref\consumer.dll
+C:\Source\DaprLive - Copy\pub_sub\csharp\sdk\consumer\bin\Debug\net6.0\consumer.pdb
+C:\Source\DaprLive - Copy\pub_sub\csharp\sdk\consumer\bin\Debug\net6.0\Dapr.AspNetCore.dll
+C:\Source\DaprLive - Copy\pub_sub\csharp\sdk\consumer\bin\Debug\net6.0\Dapr.Client.dll
+C:\Source\DaprLive - Copy\pub_sub\csharp\sdk\consumer\bin\Debug\net6.0\Google.Api.CommonProtos.dll
+C:\Source\DaprLive - Copy\pub_sub\csharp\sdk\consumer\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Source\DaprLive - Copy\pub_sub\csharp\sdk\consumer\bin\Debug\net6.0\Grpc.Core.Api.dll
+C:\Source\DaprLive - Copy\pub_sub\csharp\sdk\consumer\bin\Debug\net6.0\Grpc.Net.Client.dll
+C:\Source\DaprLive - Copy\pub_sub\csharp\sdk\consumer\bin\Debug\net6.0\Grpc.Net.Common.dll
+C:\Source\DaprLive - Copy\pub_sub\csharp\sdk\consumer\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Source\DaprLive - Copy\pub_sub\csharp\sdk\consumer\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Source\DaprLive - Copy\pub_sub\csharp\sdk\consumer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Source\DaprLive - Copy\pub_sub\csharp\sdk\consumer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Source\DaprLive - Copy\pub_sub\csharp\sdk\consumer\obj\Debug\net6.0\consumer.csproj.AssemblyReference.cache
+C:\Source\DaprLive - Copy\pub_sub\csharp\sdk\consumer\obj\Debug\net6.0\consumer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Source\DaprLive - Copy\pub_sub\csharp\sdk\consumer\obj\Debug\net6.0\consumer.AssemblyInfoInputs.cache
+C:\Source\DaprLive - Copy\pub_sub\csharp\sdk\consumer\obj\Debug\net6.0\consumer.AssemblyInfo.cs
+C:\Source\DaprLive - Copy\pub_sub\csharp\sdk\consumer\obj\Debug\net6.0\consumer.csproj.CoreCompileInputs.cache
+C:\Source\DaprLive - Copy\pub_sub\csharp\sdk\consumer\obj\Debug\net6.0\consumer.MvcApplicationPartsAssemblyInfo.cs
+C:\Source\DaprLive - Copy\pub_sub\csharp\sdk\consumer\obj\Debug\net6.0\consumer.MvcApplicationPartsAssemblyInfo.cache
+C:\Source\DaprLive - Copy\pub_sub\csharp\sdk\consumer\obj\Debug\net6.0\staticwebassets.build.json
+C:\Source\DaprLive - Copy\pub_sub\csharp\sdk\consumer\obj\Debug\net6.0\staticwebassets.development.json
+C:\Source\DaprLive - Copy\pub_sub\csharp\sdk\consumer\obj\Debug\net6.0\scopedcss\bundle\consumer.styles.css
+C:\Source\DaprLive - Copy\pub_sub\csharp\sdk\consumer\obj\Debug\net6.0\consumer.csproj.CopyComplete
+C:\Source\DaprLive - Copy\pub_sub\csharp\sdk\consumer\obj\Debug\net6.0\consumer.dll
+C:\Source\DaprLive - Copy\pub_sub\csharp\sdk\consumer\obj\Debug\net6.0\ref\consumer.dll
+C:\Source\DaprLive - Copy\pub_sub\csharp\sdk\consumer\obj\Debug\net6.0\consumer.pdb
+C:\Source\DaprLive - Copy\pub_sub\csharp\sdk\consumer\obj\Debug\net6.0\consumer.genruntimeconfig.cache
+C:\Users\Tania Storm\Downloads\pub_sub\csharp\sdk\consumer\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Tania Storm\Downloads\pub_sub\csharp\sdk\consumer\bin\Debug\net6.0\appsettings.json
+C:\Users\Tania Storm\Downloads\pub_sub\csharp\sdk\consumer\bin\Debug\net6.0\consumer.exe
+C:\Users\Tania Storm\Downloads\pub_sub\csharp\sdk\consumer\bin\Debug\net6.0\consumer.deps.json
+C:\Users\Tania Storm\Downloads\pub_sub\csharp\sdk\consumer\bin\Debug\net6.0\consumer.runtimeconfig.json
+C:\Users\Tania Storm\Downloads\pub_sub\csharp\sdk\consumer\bin\Debug\net6.0\consumer.dll
+C:\Users\Tania Storm\Downloads\pub_sub\csharp\sdk\consumer\bin\Debug\net6.0\consumer.pdb
+C:\Users\Tania Storm\Downloads\pub_sub\csharp\sdk\consumer\bin\Debug\net6.0\Dapr.AspNetCore.dll
+C:\Users\Tania Storm\Downloads\pub_sub\csharp\sdk\consumer\bin\Debug\net6.0\Dapr.Client.dll
+C:\Users\Tania Storm\Downloads\pub_sub\csharp\sdk\consumer\bin\Debug\net6.0\Google.Api.CommonProtos.dll
+C:\Users\Tania Storm\Downloads\pub_sub\csharp\sdk\consumer\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\Tania Storm\Downloads\pub_sub\csharp\sdk\consumer\bin\Debug\net6.0\Grpc.Core.Api.dll
+C:\Users\Tania Storm\Downloads\pub_sub\csharp\sdk\consumer\bin\Debug\net6.0\Grpc.Net.Client.dll
+C:\Users\Tania Storm\Downloads\pub_sub\csharp\sdk\consumer\bin\Debug\net6.0\Grpc.Net.Common.dll
+C:\Users\Tania Storm\Downloads\pub_sub\csharp\sdk\consumer\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Tania Storm\Downloads\pub_sub\csharp\sdk\consumer\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Tania Storm\Downloads\pub_sub\csharp\sdk\consumer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Tania Storm\Downloads\pub_sub\csharp\sdk\consumer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Tania Storm\Downloads\pub_sub\csharp\sdk\consumer\obj\Debug\net6.0\consumer.csproj.AssemblyReference.cache
+C:\Users\Tania Storm\Downloads\pub_sub\csharp\sdk\consumer\obj\Debug\net6.0\consumer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tania Storm\Downloads\pub_sub\csharp\sdk\consumer\obj\Debug\net6.0\consumer.AssemblyInfoInputs.cache
+C:\Users\Tania Storm\Downloads\pub_sub\csharp\sdk\consumer\obj\Debug\net6.0\consumer.AssemblyInfo.cs
+C:\Users\Tania Storm\Downloads\pub_sub\csharp\sdk\consumer\obj\Debug\net6.0\consumer.csproj.CoreCompileInputs.cache
+C:\Users\Tania Storm\Downloads\pub_sub\csharp\sdk\consumer\obj\Debug\net6.0\consumer.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Tania Storm\Downloads\pub_sub\csharp\sdk\consumer\obj\Debug\net6.0\consumer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Tania Storm\Downloads\pub_sub\csharp\sdk\consumer\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Tania Storm\Downloads\pub_sub\csharp\sdk\consumer\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Tania Storm\Downloads\pub_sub\csharp\sdk\consumer\obj\Debug\net6.0\scopedcss\bundle\consumer.styles.css
+C:\Users\Tania Storm\Downloads\pub_sub\csharp\sdk\consumer\obj\Debug\net6.0\consumer.csproj.CopyComplete
+C:\Users\Tania Storm\Downloads\pub_sub\csharp\sdk\consumer\obj\Debug\net6.0\consumer.dll
+C:\Users\Tania Storm\Downloads\pub_sub\csharp\sdk\consumer\obj\Debug\net6.0\refint\consumer.dll
+C:\Users\Tania Storm\Downloads\pub_sub\csharp\sdk\consumer\obj\Debug\net6.0\consumer.pdb
+C:\Users\Tania Storm\Downloads\pub_sub\csharp\sdk\consumer\obj\Debug\net6.0\consumer.genruntimeconfig.cache
+C:\Users\Tania Storm\Downloads\pub_sub\csharp\sdk\consumer\obj\Debug\net6.0\ref\consumer.dll

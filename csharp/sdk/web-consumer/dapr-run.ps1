@@ -1,0 +1,1 @@
+dapr run --app-id event-consumer --components-path ../../../components --app-port 7008 -- dotnet run

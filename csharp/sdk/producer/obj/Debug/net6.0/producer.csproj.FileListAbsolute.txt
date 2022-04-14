@@ -1,0 +1,46 @@
+C:\Source\DaprLive - Copy\pub_sub\csharp\sdk\producer\bin\Debug\net6.0\producer.exe
+C:\Source\DaprLive - Copy\pub_sub\csharp\sdk\producer\bin\Debug\net6.0\producer.deps.json
+C:\Source\DaprLive - Copy\pub_sub\csharp\sdk\producer\bin\Debug\net6.0\producer.runtimeconfig.json
+C:\Source\DaprLive - Copy\pub_sub\csharp\sdk\producer\bin\Debug\net6.0\producer.dll
+C:\Source\DaprLive - Copy\pub_sub\csharp\sdk\producer\bin\Debug\net6.0\ref\producer.dll
+C:\Source\DaprLive - Copy\pub_sub\csharp\sdk\producer\bin\Debug\net6.0\producer.pdb
+C:\Source\DaprLive - Copy\pub_sub\csharp\sdk\producer\bin\Debug\net6.0\Dapr.AspNetCore.dll
+C:\Source\DaprLive - Copy\pub_sub\csharp\sdk\producer\bin\Debug\net6.0\Dapr.Client.dll
+C:\Source\DaprLive - Copy\pub_sub\csharp\sdk\producer\bin\Debug\net6.0\Google.Api.CommonProtos.dll
+C:\Source\DaprLive - Copy\pub_sub\csharp\sdk\producer\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Source\DaprLive - Copy\pub_sub\csharp\sdk\producer\bin\Debug\net6.0\Grpc.Core.Api.dll
+C:\Source\DaprLive - Copy\pub_sub\csharp\sdk\producer\bin\Debug\net6.0\Grpc.Net.Client.dll
+C:\Source\DaprLive - Copy\pub_sub\csharp\sdk\producer\bin\Debug\net6.0\Grpc.Net.Common.dll
+C:\Source\DaprLive - Copy\pub_sub\csharp\sdk\producer\obj\Debug\net6.0\producer.csproj.AssemblyReference.cache
+C:\Source\DaprLive - Copy\pub_sub\csharp\sdk\producer\obj\Debug\net6.0\producer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Source\DaprLive - Copy\pub_sub\csharp\sdk\producer\obj\Debug\net6.0\producer.AssemblyInfoInputs.cache
+C:\Source\DaprLive - Copy\pub_sub\csharp\sdk\producer\obj\Debug\net6.0\producer.AssemblyInfo.cs
+C:\Source\DaprLive - Copy\pub_sub\csharp\sdk\producer\obj\Debug\net6.0\producer.csproj.CoreCompileInputs.cache
+C:\Source\DaprLive - Copy\pub_sub\csharp\sdk\producer\obj\Debug\net6.0\producer.csproj.CopyComplete
+C:\Source\DaprLive - Copy\pub_sub\csharp\sdk\producer\obj\Debug\net6.0\producer.dll
+C:\Source\DaprLive - Copy\pub_sub\csharp\sdk\producer\obj\Debug\net6.0\ref\producer.dll
+C:\Source\DaprLive - Copy\pub_sub\csharp\sdk\producer\obj\Debug\net6.0\producer.pdb
+C:\Source\DaprLive - Copy\pub_sub\csharp\sdk\producer\obj\Debug\net6.0\producer.genruntimeconfig.cache
+C:\Users\Tania Storm\Downloads\pub_sub\csharp\sdk\producer\bin\Debug\net6.0\producer.exe
+C:\Users\Tania Storm\Downloads\pub_sub\csharp\sdk\producer\bin\Debug\net6.0\producer.deps.json
+C:\Users\Tania Storm\Downloads\pub_sub\csharp\sdk\producer\bin\Debug\net6.0\producer.runtimeconfig.json
+C:\Users\Tania Storm\Downloads\pub_sub\csharp\sdk\producer\bin\Debug\net6.0\producer.dll
+C:\Users\Tania Storm\Downloads\pub_sub\csharp\sdk\producer\bin\Debug\net6.0\producer.pdb
+C:\Users\Tania Storm\Downloads\pub_sub\csharp\sdk\producer\bin\Debug\net6.0\Dapr.AspNetCore.dll
+C:\Users\Tania Storm\Downloads\pub_sub\csharp\sdk\producer\bin\Debug\net6.0\Dapr.Client.dll
+C:\Users\Tania Storm\Downloads\pub_sub\csharp\sdk\producer\bin\Debug\net6.0\Google.Api.CommonProtos.dll
+C:\Users\Tania Storm\Downloads\pub_sub\csharp\sdk\producer\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\Tania Storm\Downloads\pub_sub\csharp\sdk\producer\bin\Debug\net6.0\Grpc.Core.Api.dll
+C:\Users\Tania Storm\Downloads\pub_sub\csharp\sdk\producer\bin\Debug\net6.0\Grpc.Net.Client.dll
+C:\Users\Tania Storm\Downloads\pub_sub\csharp\sdk\producer\bin\Debug\net6.0\Grpc.Net.Common.dll
+C:\Users\Tania Storm\Downloads\pub_sub\csharp\sdk\producer\obj\Debug\net6.0\producer.csproj.AssemblyReference.cache
+C:\Users\Tania Storm\Downloads\pub_sub\csharp\sdk\producer\obj\Debug\net6.0\producer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tania Storm\Downloads\pub_sub\csharp\sdk\producer\obj\Debug\net6.0\producer.AssemblyInfoInputs.cache
+C:\Users\Tania Storm\Downloads\pub_sub\csharp\sdk\producer\obj\Debug\net6.0\producer.AssemblyInfo.cs
+C:\Users\Tania Storm\Downloads\pub_sub\csharp\sdk\producer\obj\Debug\net6.0\producer.csproj.CoreCompileInputs.cache
+C:\Users\Tania Storm\Downloads\pub_sub\csharp\sdk\producer\obj\Debug\net6.0\producer.csproj.CopyComplete
+C:\Users\Tania Storm\Downloads\pub_sub\csharp\sdk\producer\obj\Debug\net6.0\producer.dll
+C:\Users\Tania Storm\Downloads\pub_sub\csharp\sdk\producer\obj\Debug\net6.0\refint\producer.dll
+C:\Users\Tania Storm\Downloads\pub_sub\csharp\sdk\producer\obj\Debug\net6.0\producer.pdb
+C:\Users\Tania Storm\Downloads\pub_sub\csharp\sdk\producer\obj\Debug\net6.0\producer.genruntimeconfig.cache
+C:\Users\Tania Storm\Downloads\pub_sub\csharp\sdk\producer\obj\Debug\net6.0\ref\producer.dll

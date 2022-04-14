@@ -1,0 +1,1 @@
+dapr run --app-id event-producer --components-path ../../../components -- dotnet run

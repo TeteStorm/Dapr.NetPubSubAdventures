@@ -1,0 +1,1 @@
+dapr run --app-id checkout --components-path ../../../components/ -- dotnet run 

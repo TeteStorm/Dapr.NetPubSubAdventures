@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "tKEqvYT6+FfxsaJz/L5Ynf6ladzzpDcL36hazENpcmo=",
+  "Source": "web-consumer",
+  "BasePath": "_content/web-consumer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,1 @@
+dapr run --app-id order-processor --components-path ../../../components/ --app-port 7001 -- dotnet run 
