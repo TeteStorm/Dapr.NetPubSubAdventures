@@ -1,12 +1,12 @@
-# Dapr pub/sub
-
+# Dapr pub/sub com Dapr.NET SDK
 Este exemplo demontra como realizar a produção e o consumo de eventos através do Dapr com a biblioteca Dapr client SDK.
+"Dapr.AspNetCore" Version="1.5.0"
 
 O Dapr possui o conceito de build blocks apis (que plugam capacidades ao nosso app) no nosso caso faremos o uso do pubsub building block, onde conseguimos implementar de uma maneira completamente transparente e agnóstica nossa mssageria apenas utlizidando a intermediação via client do Dapr 
 da produção e consumo das mensagens.
 
 
-Visite [this](https://docs.dapr.io/developing-applications/building-blocks/pubsub/) para mais informações sobre o Dapr e Pub-Sub.
+Visite [dapr.io](https://docs.dapr.io/developing-applications/building-blocks/pubsub/) para mais informações sobre o Dapr e Pub-Sub.
 
 
 producer
