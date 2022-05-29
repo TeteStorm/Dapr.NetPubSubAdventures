@@ -1,8 +1,8 @@
 # Dapr pub/sub (HTTP Client)
 
-Este exemplo demontra como realizar a produçao e o consumo de eventos através do Dapr sem a necessidade do uso de nenhuma dependência ou biblioteca adicional.
+Este exemplo demontra como realizar a produção e o consumo de eventos através do Dapr sem a necessidade do uso de nenhuma dependência ou biblioteca adicional.
 
-O Dapr possui o conceito de build blocks apis (que plugam capacidades ao nosso app) no nosso caso faremos o uso do pubsub building block, onde conseguimos implementar de uma maneira completamente transparente e agnóstica nossa mssageria apenas utlizidando a intermediação via http da produção e consumo das mensagens.
+O Dapr possui o conceito de build blocks apis (que plugam capacidades ao nosso app) no nosso caso faremos o uso do pubsub building block, onde conseguimos implementar de uma maneira completamente transparente e agnóstica nossa messageria apenas utilizando a intermediação via http da produção e consumo das mensagens.
 
 
 Visite [dapr.io](https://docs.dapr.io/developing-applications/building-blocks/pubsub/) para mais informações sobre o Dapr e Pub-Sub.
